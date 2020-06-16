@@ -8,5 +8,13 @@ rule for the service.
 Author: Matt Wyatt
 Co-Author: Matt Hann
 
-Credits: Big shoutout to Matt Hann who wrote the script that dealt with the XML file format, and the help in converting this to the
-new format
+Credits: Big shoutout to Matt Hann who wrote the original script that dealt with the XML file format, and the help in converting this to 
+the new format.
+
+Instructions
+
+1. Download the latest file version of the IP ranges on the above link. 
+2. Place this file in a folder at the path C:\Scripts\ (Create it if it doesn't exist
+3. Rename the file to have the name: AzurePublicIP.json
+
+Alternatively, place it and name it whatever you wish but just alter the $path variable to match.
